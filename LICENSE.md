@@ -629,7 +629,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    win-galerias
+    wp-role-susananzth
     Copyright (C) 2021  Susana Piñero
 
     This program is free software: you can redistribute it and/or modify
